@@ -1,0 +1,21 @@
+{
+    "afazer": [
+        "formatacao",
+        "ui ux"
+    ],
+    "Analise": [
+        "criar validacoes"
+    ],
+    "Desenvolvimento": [
+        "implementar para outras aplicacoes"
+    ],
+    "Teste": [
+        "poder mover itens",
+        "crud dos itens"
+    ],
+    "Finalizado": [
+        "criar o projeto kanban",
+        "adicionar as colunas",
+        "adcionar itens"
+    ]
+}
